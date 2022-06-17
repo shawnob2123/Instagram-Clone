@@ -69,5 +69,10 @@ export const styles = StyleSheet.create({
     fontSize: fonts.sizes.md,
     color: colors.grayDark,
     paddingTop: 2,
+  },
+  toggleDescriptionExpanded: {
+    fontSize: fonts.sizes.sm,
+    color: colors.grayDark,
+    paddingTop: 2,
   }
 });

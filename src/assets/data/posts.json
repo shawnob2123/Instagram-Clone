@@ -2,30 +2,30 @@
   {
     "id": "1",
     "createdAt": "19 December 2021",
-    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/1.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
+    "image": "https://static.www.nfl.com/image/private/t_editorial_landscape_mobile/f_auto/league/pjvotrgutxiqejmsr9z3.jpg",
+    "description": " lorem ispum a met amet is a met amet is a met amet is a met amet is a met amet is a met amet is a met amet is a met amet is a met amet is a met amet is a met amet is a met",
     "user": {
       "id": "u1",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
-      "username": "vadimnotjustdev"
+      "image": "https://i.pravatar.cc/300",
+      "username": "shawnob23"
     },
     "nofComments": 11,
     "nofLikes": 34,
     "comments": [
       {
         "id": "1",
-        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+        "comment": "Hell yeah",
         "user": {
           "id": "u1",
-          "username": "vadimnotjustdev"
+          "username": "steelers"
         }
       },
       {
         "id": "2",
-        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
+        "comment": "Lets go!!!",
         "user": {
           "id": "u1",
-          "username": "vadimnotjustdev"
+          "username": "kennypickett8"
         }
       }
     ]
@@ -33,12 +33,12 @@
   {
     "id": "2",
     "createdAt": "19 December 2021",
-    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/2.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
+    "image": "https://i.pravatar.cc/300",
+    "description": "This is a new post",
     "user": {
       "id": "u1",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg",
-      "username": "vadimnotjustdev"
+      "image": "https://i.pravatar.cc/300",
+      "username": "shawnob23"
     },
     "nofComments": 11,
     "nofLikes": 34,
@@ -48,7 +48,7 @@
         "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
         "user": {
           "id": "u1",
-          "username": "vadimnotjustdev"
+          "username": "shawnob23"
         }
       },
       {
@@ -56,7 +56,7 @@
         "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
         "user": {
           "id": "u1",
-          "username": "vadimnotjustdev"
+          "username": "shawnob23"
         }
       }
     ]
@@ -65,11 +65,11 @@
     "id": "3",
     "createdAt": "19 December 2021",
     "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/3.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
+    "description": "This is a new post",
     "user": {
       "id": "u1",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.jpg",
-      "username": "vadimnotjustdev"
+      "image": "https://i.pravatar.cc/300",
+      "username": "shawnob23"
     },
     "nofComments": 11,
     "nofLikes": 34,
@@ -79,7 +79,7 @@
         "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
         "user": {
           "id": "u1",
-          "username": "vadimnotjustdev"
+          "username": "shawnob23"
         }
       },
       {
@@ -87,7 +87,7 @@
         "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
         "user": {
           "id": "u1",
-          "username": "vadimnotjustdev"
+          "username": "shawnob23"
         }
       }
     ]
@@ -96,11 +96,11 @@
     "id": "4",
     "createdAt": "19 December 2021",
     "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/4.jpg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
+    "description": "This is a new post",
     "user": {
       "id": "u1",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
-      "username": "vadimnotjustdev"
+      "username": "shawnob23"
     },
     "nofComments": 11,
     "nofLikes": 34,
@@ -110,7 +110,7 @@
         "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
         "user": {
           "id": "u1",
-          "username": "vadimnotjustdev"
+          "username": "shawnob23"
         }
       },
       {
@@ -118,7 +118,7 @@
         "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. H",
         "user": {
           "id": "u1",
-          "username": "vadimnotjustdev"
+          "username": "shawnob23"
         }
       }
     ]
